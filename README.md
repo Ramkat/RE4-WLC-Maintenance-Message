@@ -8,4 +8,4 @@ All requests to [www.]wildlifecampus.com will be redirected to this website
 Once wildlifecampus.com is working again (see if test.wildlifecampus.com displays),
 change the 1st "A" record to point to the webserver's IP and remove the other 3 "A" records.
 
-**Ensure the "A" records are "proxied" for instantaneous results.**
+**Ensure the "A" records are "proxied" and PURGE the DNS cache for instantaneous results.**
